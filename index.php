@@ -19,8 +19,7 @@
 </head>
 <body>
 	<h1>Handsome boy </h1>
-	 <img src="Syrgak.jpeg"> 
-	<a href="index.html">home</a>
+	 <img src="Syrgak.jpeg"> 	
 <body>
 </html>
 </head>
